@@ -45,15 +45,15 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		{
 			name: "生活學習",
-			url: "/archive/category/生活學習/",
+			url: "/archive/?category=生活學習",
 		},
 		{
 			name: "攝影筆記",
-			url: "/archive/category/攝影筆記/",
+			url: "/archive/?category=攝影筆記",
 		},
 		{
 			name: "心情記事",
-			url: "/archive/category/心情記事/",
+			url: "/archive/?category=心情記事",
 		},
 		LinkPreset.About,
 		{
