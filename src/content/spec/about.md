@@ -1,9 +1,15 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 關於我
 
-::github{repo="saicaca/fuwari"}
+歡迎來到 **日常拾光**。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+這裡是我整理生活、學習與攝影的個人空間。我希望把值得再次閱讀的內容慢慢留下來，而不是追趕更新速度。
+
+## 這裡會記錄什麼？
+
+- **生活學習**：閱讀、語言學習、旅行與日常累積的筆記。
+- **攝影筆記**：相機、鏡頭、街拍、構圖，以及實際拍攝心得。
+- **心情記事**：旅行途中、生活片刻與偶爾想留下來的文字。
+
+## 關於這個網站
+
+本站使用 [Fuwari](https://github.com/saicaca/fuwari) 建置，並透過 GitHub Pages 發布。文章主要以 Markdown 撰寫。
