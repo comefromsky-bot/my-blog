@@ -152,14 +152,6 @@ const bannerOffset =
 		  data-overlayscrollbars-initialize
 	>
 		<ConfigCarrier></ConfigCarrier>
-		{enableBanner && isHomePage && (
-			<div id="home-banner-title" aria-label="網站標題">
-				<div class="home-banner-title-inner">
-					<h1>{siteConfig.title}</h1>
-					<p>{siteConfig.subtitle}</p>
-				</div>
-			</div>
-		)}
 		<slot />
 
 		<!-- increase the page height during page transition to prevent the scrolling animation from jumping -->
@@ -198,42 +190,6 @@ const bannerOffset =
 	}
 	.navbar-hidden {
 		@apply opacity-0 -translate-y-16
-	}
-	#home-banner-title {
-		position: fixed;
-		top: 0;
-		left: 0;
-		right: 0;
-		height: var(--banner-height-home);
-		z-index: 40;
-		pointer-events: none;
-	}
-	.home-banner-title-inner {
-		width: min(calc(100% - 2rem), var(--page-width));
-		margin: 0 auto;
-		padding-top: 14rem;
-		padding-left: 1rem;
-		color: white;
-		text-shadow: 0 2px 16px rgba(0, 0, 0, 0.45);
-	}
-	.home-banner-title-inner h1 {
-		font-size: clamp(2rem, 4vw, 3.5rem);
-		font-weight: 700;
-		letter-spacing: 0.08em;
-		line-height: 1.15;
-	}
-	.home-banner-title-inner p {
-		margin-top: 0.65rem;
-		font-size: clamp(0.9rem, 1.5vw, 1.15rem);
-		font-weight: 400;
-		letter-spacing: 0.06em;
-		opacity: 0.9;
-	}
-	@media (max-width: 767px) {
-		.home-banner-title-inner {
-			padding-top: 8rem;
-			padding-left: 0.5rem;
-		}
 	}
 }
 </style>
