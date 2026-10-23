@@ -48,8 +48,8 @@ export const navBarConfig: NavBarConfig = {
 			url: "/archive/?category=生活學習",
 		},
 		{
-			name: "攝影筆記",
-			url: "/archive/?category=攝影筆記",
+			name: "旅行攝影",
+			url: "/archive/?category=旅行攝影",
 		},
 		{
 			name: "心情記事",
@@ -67,7 +67,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/site-avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "日常拾光",
-	bio: "記錄生活學習、攝影筆記與心情記事。",
+	bio: "記錄生活學習、旅行攝影與心情記事。",
 	links: [
 		{
 			name: "GitHub",
