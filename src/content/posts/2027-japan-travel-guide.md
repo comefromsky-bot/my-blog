@@ -3,7 +3,7 @@ title: 2027日本旅行景點全介紹
 published: 2026-10-23
 description: 整理 2027 日本旅行景點與行程資料，並提供完整電子書閱讀版本。
 tags: [日本, 旅行, 景點, "2027"]
-category: 刻意學習
+category: 生活記事
 draft: false
 ---
 
