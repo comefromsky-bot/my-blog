@@ -1,7 +1,7 @@
 ---
 title: "密涅瓦大學的思考習慣訓練"
 published: 2026-10-25
-description: "「AI 時代的思考習慣-密涅瓦大學的思考習慣訓練」完整電子書閱讀版本。"
+description: "「AI 時代的思考習慣-密涅瓦大學的思考習慣訓練」電子書閱讀版本。"
 tags: ["學習", "思考", "ai"]
 category: 刻意學習
 draft: false
